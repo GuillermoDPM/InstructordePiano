@@ -24,6 +24,8 @@ namespace WindowsFormsApp4
             panelHerramientasSubmenu.Visible = false;
             frmAprender1.Visible = false;
             frmPiezas1.Visible = false;
+          //  frmNivel1.Visible = false;
+
 
         }
 

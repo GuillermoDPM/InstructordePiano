@@ -11,6 +11,6 @@ C:\Users\guill\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsF
 C:\Users\guill\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
 C:\Users\guill\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Login.resources
 C:\Users\guill\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Main.resources
-C:\Users\guill\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.FormAprender.resources
 C:\Users\guill\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmAprender.resources
 C:\Users\guill\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmPiezas.resources
+C:\Users\guill\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.FormNivel1.resources

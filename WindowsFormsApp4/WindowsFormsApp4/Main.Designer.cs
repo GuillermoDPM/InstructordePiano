@@ -43,11 +43,11 @@
             this.btnPiezas = new System.Windows.Forms.Button();
             this.btnAprender = new System.Windows.Forms.Button();
             this.panelLogo = new System.Windows.Forms.Panel();
+            this.label1 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.frmPiezas1 = new WindowsFormsApp4.frmPiezas();
             this.frmAprender1 = new WindowsFormsApp4.frmAprender();
-            this.label1 = new System.Windows.Forms.Label();
+            this.frmPiezas1 = new WindowsFormsApp4.frmPiezas();
             this.panelSideMenu.SuspendLayout();
             this.panelHerramientasSubmenu.SuspendLayout();
             this.panelHomeSubmenu.SuspendLayout();
@@ -276,6 +276,17 @@
             this.panelLogo.Size = new System.Drawing.Size(253, 559);
             this.panelLogo.TabIndex = 0;
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.label1.Location = new System.Drawing.Point(22, 59);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(204, 29);
+            this.label1.TabIndex = 5;
+            this.label1.Text = "Piano Broadcast";
+            // 
             // panel1
             // 
             this.panel1.Location = new System.Drawing.Point(250, 0);
@@ -297,6 +308,19 @@
             this.panel2.Size = new System.Drawing.Size(1672, 1055);
             this.panel2.TabIndex = 3;
             // 
+            // frmAprender1
+            // 
+            this.frmAprender1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.frmAprender1.AutoScroll = true;
+            this.frmAprender1.AutoSize = true;
+            this.frmAprender1.BackColor = System.Drawing.Color.White;
+            this.frmAprender1.Location = new System.Drawing.Point(6, 0);
+            this.frmAprender1.Name = "frmAprender1";
+            this.frmAprender1.Size = new System.Drawing.Size(1672, 1055);
+            this.frmAprender1.TabIndex = 0;
+            // 
             // frmPiezas1
             // 
             this.frmPiezas1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
@@ -308,29 +332,7 @@
             this.frmPiezas1.Size = new System.Drawing.Size(1672, 1055);
             this.frmPiezas1.TabIndex = 1;
             // 
-            // frmAprender1
-            // 
-            this.frmAprender1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.frmAprender1.AutoSize = true;
-            this.frmAprender1.BackColor = System.Drawing.Color.White;
-            this.frmAprender1.Location = new System.Drawing.Point(6, 0);
-            this.frmAprender1.Name = "frmAprender1";
-            this.frmAprender1.Size = new System.Drawing.Size(1672, 1055);
-            this.frmAprender1.TabIndex = 0;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label1.Location = new System.Drawing.Point(22, 59);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(204, 29);
-            this.label1.TabIndex = 5;
-            this.label1.Text = "Piano Broadcast";
-            // 
+            
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);

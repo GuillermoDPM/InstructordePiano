@@ -46,6 +46,7 @@
             this.button1.TabIndex = 0;
             this.button1.Text = "Nivel 1";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -126,6 +127,7 @@
             this.Controls.Add(this.button1);
             this.Name = "frmAprender";
             this.Size = new System.Drawing.Size(1008, 572);
+            this.Load += new System.EventHandler(this.frmAprender_Load);
             this.ResumeLayout(false);
 
         }

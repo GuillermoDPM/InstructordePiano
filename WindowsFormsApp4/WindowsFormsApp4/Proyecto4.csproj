@@ -70,11 +70,11 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormAprender.cs">
+    <Compile Include="FormNivel1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormAprender.Designer.cs">
-      <DependentUpon>FormAprender.cs</DependentUpon>
+    <Compile Include="FormNivel1.Designer.cs">
+      <DependentUpon>FormNivel1.cs</DependentUpon>
     </Compile>
     <Compile Include="frmAprender.cs">
       <SubType>UserControl</SubType>
@@ -106,8 +106,8 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormAprender.resx">
-      <DependentUpon>FormAprender.cs</DependentUpon>
+    <EmbeddedResource Include="FormNivel1.resx">
+      <DependentUpon>FormNivel1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmAprender.resx">
       <DependentUpon>frmAprender.cs</DependentUpon>

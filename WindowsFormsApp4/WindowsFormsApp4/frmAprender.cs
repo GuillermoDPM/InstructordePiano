@@ -16,5 +16,16 @@ namespace WindowsFormsApp4
         {
             InitializeComponent();
         }
+
+        private void frmAprender_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form Nivel1Open = new FormNivel1();   
+            Nivel1Open.Show();
+        }
     }
 }
